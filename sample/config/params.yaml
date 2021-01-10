@@ -1,7 +1,0 @@
-## Author: Dimitrios Kanoulas (d.kanoulas@ucl.ac.uk)
-name: sample
-
-### Sample settings ##################################################
-frame_params:
-  world_frame: "world_frame"
-  robot_frame: "robot_frame"
