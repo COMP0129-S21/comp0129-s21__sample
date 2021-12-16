@@ -1,6 +1,6 @@
 /* Software License Agreement (BSD License)
  *
- *  Copyright (c) 2021-, Dimitrios Kanoulas
+ *  Copyright (c) 2019-, Dimitrios Kanoulas
  *
  *  All rights reserved.
  *
